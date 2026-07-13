@@ -1,13 +1,13 @@
 {
     "name": "technikali/sso-client",
     "version": "1.0.0",
-    "description": "Laravel SSO client package for Bansud LGU single sign-on integration.",
+    "description": "Laravel SSO client package for single sign-on integration.",
     "type": "library",
     "license": "MIT",
     "keywords": ["laravel", "sso", "oauth", "passport", "lgu", "bansud"],
     "authors": [
         {
-            "name": "Technikali / Municipality of Bansud IT Division"
+            "name": "Technikali"
         }
     ],
     "require": {
