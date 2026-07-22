@@ -20,6 +20,13 @@
     "require-dev": {
         "orchestra/testbench": "^9.0"
     },
+    "config": {
+        "policy": {
+            "advisories": {
+                "block": false
+            }
+        }
+    },
     "autoload": {
         "psr-4": {
             "Technikali\\SsoClient\\": "src/"
